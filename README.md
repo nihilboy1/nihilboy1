@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: samuelseve1@gmail.com
 - 😄 Pronouns: He/Him
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihilboy1)](https://github.com/Nihilboy1/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nihilboy1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihilboy1)](https://github.com/Nihilboy1/github-readme-stats)
 
 
