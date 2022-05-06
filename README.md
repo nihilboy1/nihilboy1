@@ -5,11 +5,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Frontend Mentor challenges
-- 🌱 I’m currently learning React.js
-- 💬 Ask me about Python, HTML, CSS and RPG (Yes, RPG)
-- 📫 How to reach me: samuelseve1@gmail.com
-- 😄 Pronouns: He/Him
+- 🔭 A meta é me tornar o melhor dev frontend do mundo. 
+- 💬 Pode falar comigo sobre CSS, HTML, React.js, Python e RPG (Sim, RPG)
+- 📫 Como me encontrar: 
+  Email: samuelseve1@gmail.com
+  LinkedIn: https://www.linkedin.com/in/samuelseve1/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihilboy1)
 
