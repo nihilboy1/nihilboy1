@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 A meta é me tornar o melhor dev frontend do mundo. 
-- 💬 Pode falar comigo sobre CSS, HTML, React.js, Python e RPG (Sim, RPG)
+- 💬 Vamos trocar ideia sobre CSS, HTML, React.js, Python ou RPG (Sim, RPG)
 - 📫 Como me encontrar: 
   Email: samuelseve1@gmail.com
   LinkedIn: https://www.linkedin.com/in/samuelseve1/
