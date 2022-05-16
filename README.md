@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 A meta é me tornar melhor do que ontem.
-- 💬 Vamos trocar ideia sobre CSS, HTML, React.js, Python ou qualquer outra coisa que envolva tecnologia. :)
+- 🔭 A meta é sempre me tornar melhor do que ontem.
+- 💬 Vamos trocar ideia sobre desenvolvimento front-end! :)
 - 📫 Como me encontrar: 
   Email: samuelseve1@gmail.com
   LinkedIn: https://www.linkedin.com/in/samuelseve1/
