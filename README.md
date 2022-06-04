@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 A meta é sempre me tornar melhor do que ontem.
+- 🔭 A meta é me tornar melhor que ontem.
 - 💬 Vamos trocar ideia sobre desenvolvimento Front-end! :)
 - 🌱 Atualmente estou aprendendo: React e desenvolvimento Front-end na Rocketseat
 - 
