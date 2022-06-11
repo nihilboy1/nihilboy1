@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 Como me encontrar: 
 - Email: samuelseve1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/samuelseve1/
+- Currículo: https://www.mediafire.com/file/iouxp9swryqvr0z/Samuel_Severiano_Curr%25C3%25ADculo_DEV.pdf/file
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihilboy1)
