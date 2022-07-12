@@ -1,6 +1,6 @@
 
-- 🌱 I’m currently learning Next.js and full-stack development
-- 💬 Ask me about React.js, JS and RPG. Yes, RPG... :)
+- 🌱 Atualmente estudando React e todo o seu ecossistema na Rocketseat
+- 💬 Vamos trocar ideia sobre Desenvolvimento Front-end, React e RPG de mesa :)
 
 
 
