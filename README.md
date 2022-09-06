@@ -1,5 +1,5 @@
 
-- 🌱 Atualmente estudando React e todo o seu ecossistema na Rocketseat
+- 🌱 Atualmente estudando React e React-Native na Rocketseat
 - 💬 Vamos trocar ideia sobre Desenvolvimento Front-end, React e RPG de mesa :)
 
 
