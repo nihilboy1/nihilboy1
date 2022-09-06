@@ -1,6 +1,6 @@
 
 - 🌱 Atualmente estudando React e React-Native na Rocketseat
-- 💬 Vamos trocar ideia sobre Desenvolvimento Front-end, React e RPG de mesa :)
+- 💬 Fique a vontade pra falar comigo sobre Desenvolvimento Front-end, Mobile ou RPG de mesa :)
 
 
 
