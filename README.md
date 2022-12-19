@@ -2,13 +2,6 @@
 - 🌱 Atualmente estudando React e React-Native na Rocketseat
 - 💬 Fique a vontade pra falar comigo sobre Desenvolvimento Front-end, Mobile ou RPG de mesa :)
 
-
-
-<div>
-  <a href="https://github.com/nihilboy1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihilboy1&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
 <div style="display: flex"><br>
   <img  alt="JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  alt="TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
