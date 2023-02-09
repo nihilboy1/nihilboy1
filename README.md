@@ -20,8 +20,13 @@
 </div>
  
  <br>
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihilboy1&show_icons=true&text_color="#000000")](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nihilboy1)  
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihilboy1&hide=javascript,scss,sass&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
  
