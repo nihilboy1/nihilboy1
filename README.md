@@ -22,15 +22,7 @@
 <br>
  
  [![GitHub Streak](https://streak-stats.demolab.com/?user=nihilboy1&theme=dark)](https://git.io/streak-stats)
- 
- <br>
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihilboy1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihilboy1&hide=javascript,scss,sass&langs_count=6&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>   
   <a href="https://www.linkedin.com/in/samuelseve1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
