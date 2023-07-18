@@ -1,6 +1,6 @@
 # Olá, eu sou o Nihilboy
 
-- 🌱 Atualmente estudando React-Native, mas mirando no android nativo.
+- 🌱 Atualmente estudando React-Native e mirando em Kotlin e Java para o futuro.
 - 🎯 Focado em S.O.L.I.D e UX
 - 💬 Fique à vontade para falar comigo sobre Desenvolvimento Web, Mobile ou RPG de mesa :)
 
