@@ -1,6 +1,6 @@
 # Olá, meu nome é Samuel 😎
 
-- 🌱 Atualmente estudando Java, mirando em programação Mobile.
+- 🌱 Atualmente estudando Java, mirando em programação Mobile e Ciência.
 - 🎯 Foco no Código Limpo!
 - 💬 Fique à vontade para falar comigo sobre Desenvolvimento Web, Mobile ou RPG de mesa :)
 
