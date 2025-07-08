@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu espaço no GitHub! Sou estudante de **Engenharia de Software
 
 Meu foco é construir soluções web intuitivas, eficientes e visualmente agradáveis, sempre buscando as melhores práticas de código limpo e performance.
 
-- 🌱 Atualmente me aprofundando em **React**, **TypeScript**, **Tailwind CSS** e **Vite**.
+- 🌱 Atualmente me aprofundando ainda mais em **React**, **TypeScript**, **Tailwind CSS** e **Vite**.
 - 🎯 Minha paixão é a criação de interfaces de usuário e aprimorar a experiência do usuário.
 - 💬 Fique à vontade para falar comigo sobre Desenvolvimento Web, Mobile ou RPG de mesa
 
