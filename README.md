@@ -25,7 +25,34 @@ O projeto envolve:
 * **Modelagem de regras complexas (inspiradas em D&D 5e)**
 * **Arquitetura modular baseada em dados e efeitos reutilizáveis**
 
+🔒 O código-fonte do projeto é privado no momento.
+
 🌐 A aplicação pode ser acessada em:
 **https://www.nihilvtt.com**
 
 Esse projeto funciona como meu principal laboratório de engenharia de software.
+
+---
+
+### Engineering Highlights
+
+* Sistema de combate com **backend autoritativo** e sincronização em tempo real
+* Modelagem de **efeitos reutilizáveis** (condições, habilidades e triggers)
+* Fluxo determinístico para resolução de ações (ataques, multiattack, etc)
+* Estrutura de dados orientada a domínio inspirada em D&D 5e
+
+---
+
+### Architectural Decisions
+
+* Backend autoritativo para evitar inconsistência entre clientes
+* Atualizações baseadas em eventos ao invés de estado direto no cliente
+* Separação clara entre modelagem de dados e execução de lógica
+* Pipeline estruturado: **datamodeling → backend → frontend**
+
+---
+
+### Status
+
+🚧 Projeto em desenvolvimento ativo (MVP em construção)
+⚠️ Algumas funcionalidades ainda estão incompletas ou em evolução
