@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">Samuel — produto, arquitetura e inteligência artificial</title>
+  <desc id="desc">Do problema à solução em uso: entender, planejar, desenvolver e validar.</desc>
+  <rect width="960" height="280" rx="20" fill="#101d30"/>
+  <path d="M48 42h48" stroke="#b9ed80" stroke-width="5"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="46" y="122" fill="#f4f8ff" font-size="64" font-weight="700" letter-spacing="-2">Samuel</text>
+    <text x="48" y="164" fill="#c5d5ea" font-size="24">Produto, arquitetura e inteligência artificial.</text>
+    <g font-size="18" fill="#c5d5ea">
+      <text x="48" y="236">Entender</text>
+      <text x="253" y="236">Planejar</text>
+      <text x="458" y="236">Desenvolver</text>
+      <text x="713" y="236" fill="#b9ed80">Validar em uso</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#6f8bac" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M163 230h52m-7-6 7 6-7 6"/>
+    <path d="M366 230h54m-7-6 7 6-7 6"/>
+    <path d="M617 230h58m-7-6 7 6-7 6"/>
+  </g>
+  <path d="M875 68l12 12 24-26" fill="none" stroke="#b9ed80" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

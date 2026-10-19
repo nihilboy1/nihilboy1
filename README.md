@@ -1,58 +1,33 @@
-# Olá, meu nome é Samuel ✌️
+![Samuel — produto, arquitetura e inteligência artificial](assets/profile-banner.svg)
 
-Bem-vindo(a) ao meu espaço no GitHub! Sou estudante de **Engenharia de Software** com foco em **arquitetura de sistemas**, desenvolvimento **frontend** e construção de aplicações complexas.
+# Olá, eu sou Samuel ✌️
 
-Atualmente, concentro meus esforços no desenvolvimento do meu projeto principal, um **Virtual Tabletop (VTT)**, onde trabalho com problemas reais de engenharia como **state management complexo**, **sincronização em tempo real**, **modelagem de domínio** e **backend autoritativo**.
+Sou estudante de **Engenharia de Software** e trabalho no desenvolvimento de produtos com **inteligência artificial**, do entendimento da necessidade à validação com o cliente. Estou construindo a **[Nihilsoftware](https://www.instagram.com/nihilsoftware/)**, minha software house.
 
-Tenho direcionado meus estudos para construir sistemas bem estruturados, escaláveis e preparados para lidar com integrações modernas, incluindo aplicações que utilizam **IA**.
+Me interesso especialmente por **arquitetura de software**, **modelagem de domínio** e pela relação entre decisões técnicas e o funcionamento de um produto na prática.
 
-* 🧠 Foco técnico: **arquitetura de software**, **domain modeling** e **sistemas orientados a eventos**
-* ⚙️ Experiência prática com **estado compartilhado**, **fluxos determinísticos** e **lógica de jogo**
-* 🎯 Projeto principal: desenvolvimento do **NIHILVTT**
-* 🌱 Stack atual: **React**, **TypeScript**, **Tailwind CSS**, **Vite**
-* 💬 Aberto a conversar sobre engenharia de software, arquitetura e RPG de mesa
+## Projeto principal: Sevvy
 
----
+<a href="https://www.sevvy.com.br/"><img src="assets/sevvy-logo.svg" alt="Logo da Sevvy" width="190" /></a>
 
-### Projeto Principal 🚀
+A **Sevvy** está em operação comercial e reúne a experiência de compra do cliente e as ferramentas de gestão de pedidos para lojistas, com aplicação web, backend e app Android em uma plataforma multiloja.
 
-Estou desenvolvendo o **NIHILVTT**, um Virtual Tabletop voltado para sessões de RPG online com foco em automação de regras e consistência de estado entre múltiplos jogadores.
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,kotlin,postgres&amp;theme=dark" alt="Next.js, React, TypeScript, Kotlin e PostgreSQL" height="48" />
 
-O projeto envolve:
+**Stack do projeto:** Next.js · React · TypeScript · React Native · Expo · Kotlin · PostgreSQL · Drizzle ORM.
 
-* **Backend autoritativo** para garantir consistência de jogo
-* **Sincronização em tempo real entre clientes**
-* **Modelagem de regras complexas (inspiradas em D&D 5e)**
-* **Arquitetura modular baseada em dados e efeitos reutilizáveis**
+**[Conheça a Sevvy ↗](https://www.sevvy.com.br/)** · Código-fonte privado.
 
-🔒 O código-fonte do projeto é privado no momento.
+## Projeto paralelo: NIHILVTT
 
-🌐 A aplicação pode ser acessada em:
-**https://www.nihilvtt.com**
+<img src="assets/nihilvtt-logo.svg" alt="Logo do NIHILVTT" width="190" />
 
-Esse projeto funciona como meu principal laboratório de engenharia de software.
+O **NIHILVTT** é um Virtual Tabletop para sessões de RPG online, em **desenvolvimento secundário**, voltado à exploração de automação de regras, modelagem de domínio, estado compartilhado e sincronização em tempo real.
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite,java,spring,postgres&amp;theme=dark" alt="React, TypeScript, Vite, Java, Spring e PostgreSQL" height="48" />
+
+**Stack do projeto:** React · TypeScript · Vite · Tailwind CSS · PixiJS · Zustand · Java · Spring Boot · PostgreSQL.
 
 ---
 
-### Engineering Highlights
-
-* Sistema de combate com **backend autoritativo** e sincronização em tempo real
-* Modelagem de **efeitos reutilizáveis** (condições, habilidades e triggers)
-* Fluxo determinístico para resolução de ações (ataques, multiattack, etc)
-* Estrutura de dados orientada a domínio inspirada em D&D 5e
-
----
-
-### Architectural Decisions
-
-* Backend autoritativo para evitar inconsistência entre clientes
-* Atualizações baseadas em eventos ao invés de estado direto no cliente
-* Separação clara entre modelagem de dados e execução de lógica
-* Pipeline estruturado: **datamodeling → backend → frontend**
-
----
-
-### Status
-
-🚧 Projeto em desenvolvimento ativo (MVP em construção)
-⚠️ Algumas funcionalidades ainda estão incompletas ou em evolução
+💬 Fique à vontade para conversar comigo sobre engenharia de software, arquitetura e desenvolvimento de produtos.
