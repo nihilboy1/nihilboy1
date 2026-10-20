@@ -30,7 +30,7 @@ O **NIHILVTT** é um Virtual Tabletop para sessões de RPG online, em **desenvol
 
 ## Skill de planejamento: Raven
 
-<a href="https://github.com/nihilboy1/Raven"><img src="assets/raven-logo.png" alt="Logo da Raven" width="190" /></a>
+<a href="https://github.com/nihilboy1/Raven"><img src="assets/raven-logo-horizontal.png" alt="Logo da Raven" width="190" /></a>
 
 A **Raven** é uma skill de planejamento crítico para agentes de IA: questiona a raiz do problema, testa premissas e ajuda a alinhar o escopo antes da implementação, com confirmação do entendimento e plano em Markdown opcional.
 
