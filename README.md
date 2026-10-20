@@ -28,6 +28,16 @@ O **NIHILVTT** é um Virtual Tabletop para sessões de RPG online, em **desenvol
 
 **Stack do projeto:** React · TypeScript · Vite · Tailwind CSS · PixiJS · Zustand · Java · Spring Boot · PostgreSQL.
 
+## Skill de planejamento: Raven
+
+<a href="https://github.com/nihilboy1/Raven"><img src="assets/raven-logo.png" alt="Logo da Raven" width="190" /></a>
+
+A **Raven** é uma skill de planejamento crítico para agentes de IA: questiona a raiz do problema, testa premissas e ajuda a alinhar o escopo antes da implementação, com confirmação do entendimento e plano em Markdown opcional.
+
+**Formato do projeto:** Skill em Markdown · Metadados para Codex · Validação com Python e GitHub Actions.
+
+**[Conheça a Raven ↗](https://github.com/nihilboy1/Raven)** · Código aberto sob licença MIT.
+
 ---
 
 💬 Fique à vontade para conversar comigo sobre engenharia de software, arquitetura e desenvolvimento de produtos.
